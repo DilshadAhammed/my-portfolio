@@ -1,2 +1,2 @@
 ## Portfolio Link :
-[https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[https://dilshad-portfoli0.netlify.app/](https://dilshad-portfoli0.netlify.app/)
