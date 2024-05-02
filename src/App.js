@@ -3,7 +3,6 @@ import Contact from './component/Contact';
 import Navbar from './component/Navbar';
 import Projects from './component/Projects';
 import Skills from './component/Skills';
-import Testimonials from './component/Testimonials';
 
 export default function App() {
   return (
@@ -12,7 +11,6 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
-      {/* <Testimonials /> */}
       <Contact />
     </main>
   );
