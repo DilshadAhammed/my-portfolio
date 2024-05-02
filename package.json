@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
     "@iconify/icons-heroicons-solid": "^1.2.6",
